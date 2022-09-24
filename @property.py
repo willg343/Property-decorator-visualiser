@@ -1,4 +1,4 @@
-class A:
+class A:  
 	def __init__(self):
 		self.x,self.y,self.z = range(3)
 
